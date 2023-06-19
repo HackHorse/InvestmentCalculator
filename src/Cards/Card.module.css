@@ -1,0 +1,10 @@
+.card {
+margin-top: 10rem;
+background-color: #fff;
+width: auto;
+height: auto;  
+border: 0.1rem solid #333;
+border-radius: 0.5rem;
+padding: 1rem;
+background: linear-gradient(180deg, #307e6c, #2b996d);
+}
